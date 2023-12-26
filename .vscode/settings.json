@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.txt": "plaintext",
+        "*.html": "html",
+        "*.js": "javascript",
+        "*.py": "python",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
